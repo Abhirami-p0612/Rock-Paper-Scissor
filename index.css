@@ -61,6 +61,7 @@ img {
     border: none;
     border-radius: 100px;
     margin-top: 20px;
+    color: black;
 }
 
 .start {
@@ -77,6 +78,7 @@ img {
     font-size: 0.9rem;
     border: 2px solid black;
     border-radius: 100px;
+    color: black;
 }
 
 .btn1 { background-color: #8d8d8d; }
